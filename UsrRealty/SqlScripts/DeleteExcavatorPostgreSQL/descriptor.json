@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "a0c21c09-7992-9f54-ef6a-9b1ffc0dbf6c",
+    "Name": "DeleteExcavatorPostgreSQL",
+    "DBEngineType": 2,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1738357082000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}

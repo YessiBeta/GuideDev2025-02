@@ -1,0 +1,1 @@
+Delete from "UsrCarBodyType" Where "Name" = '7. Excavator'

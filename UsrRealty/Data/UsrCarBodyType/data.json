@@ -36,6 +36,22 @@
       "Row": [
         {
           "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "40845813-0765-46e6-a749-00fb49fa6f6d"
+        },
+        {
+          "SchemaColumnUId": "9338db3a-7575-f52f-b7b4-106bf1b89877",
+          "Value": "Ex"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1738354101489-0600)\/"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
           "Value": "a2cfcfbc-2f75-4a75-8c5c-af7ad38b53a6"
         },
         {
